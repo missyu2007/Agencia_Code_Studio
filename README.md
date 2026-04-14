@@ -82,5 +82,4 @@ AgenciaCodeStudio/
 | miguel_h| pass789    | Estandar|
 
 ### Autor
-Proyecto 9 — AgenciaCode Studio
-Curso de Programación con Python y MySQL
+# Autor: Amy Gonzalez
